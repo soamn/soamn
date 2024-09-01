@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soamn
+- 👋 Hi, I’m Aman Negi
 - 👀 I’m interested in coding and learning new technologies in software industries.
 - 🌱 I’m currently learning Rust Programming language, blockchain development and React
 - 💞️ I’m looking to collaborate on web3
