@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻About Me:
 🔭 I’m currently working on Full stack Projects<br>👯 I’m looking to collaborate on Web3 Projects | fullstack projects<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning Backed | web 3
 
 
