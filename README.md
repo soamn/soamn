@@ -1,18 +1,3 @@
-<style>
-  a{
-    padding:5px;
-    text
-  }
-  .stats {
-  margin-left:20%;
-  }
-  .stats2{
-      margin-left:16%;
-  }
-  .stats3{
-      margin-left:30%;
-  }
-</style>
 
 ### Hey its me 👋 Aman
 
@@ -30,14 +15,11 @@
 
 
 
+
 <h3> 📊 GitHub Stats: </h3>
 
-<a class="stats">![](https://github-readme-stats.vercel.app/api?username=soamn&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false)<br/></a>
-<a class="stats2">
-![](https://github-readme-streak-stats.herokuapp.com/?user=soamn&theme=apprentice&hide_border=true)<br/>
-</a><a class="stats3">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soamn&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</a>
+![](https://github-readme-stats.vercel.app/api?username=soamn&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=soamn&theme=apprentice&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=soamn&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ##
 ### 🔝 Top Contributed Repo
