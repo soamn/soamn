@@ -27,9 +27,5 @@
 ---
 
 
-### 💰 You can help me by Donating
-
-<a class="stats3">[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soamn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/thismeaman)</a>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ##
