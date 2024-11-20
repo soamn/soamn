@@ -32,8 +32,7 @@ I'm a passionate **Full-Stack Developer** with a keen interest in **Blockchain**
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soamn&theme=gruvbox&hide_border=true&count_private=true&show_icons=true)  
+  
 ![Aman's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=soamn&theme=gruvbox&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soamn&layout=compact&theme=gruvbox&hide_border=true)
 
