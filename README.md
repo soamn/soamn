@@ -3,7 +3,7 @@
 
 ## [![X](<https://img.shields.io/badge/-rgb(13,17,24).svg?style=flat&logo=X&logoColor=white>)](https://x.com/soamn_) [![Discord](<https://img.shields.io/badge/-rgb(13,17,24).svg?logo=discord&logoColor=%237289DA>)](https://discord.gg/DQVhSDhw)[![Instagram](<https://img.shields.io/badge/--rgb(13,17,24).svg?logo=Instagram&logoColor=gb(255,23,130)>)](https://instagram.com/soaamn) [![LinkedIn](<https://img.shields.io/badge/-rgb(13,17,24).svg?logo=linkedin&logoColor=%230077B5>)](https://linkedin.com/in/soamn) [![Medium](<https://img.shields.io/badge/-rgb(13,17,24)?logo=medium&logoColor=-12100E>)](https://medium.com/@soamn) [![YouTube](<https://img.shields.io/badge/--rgb(13,17,24).svg?logo=YouTube&logoColor=red>)](https://youtube.com/@soamn-dev)
 
-🔭 I’m currently working on Full stack Projects<br>🤝 I’m looking for help with my latest projects<br>🌱 I’m currently learning web3 , backend , Solidity
+
 
 <!-- Tools and tech -->
 ##
