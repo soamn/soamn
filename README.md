@@ -64,7 +64,7 @@ I'm a passionate **Full-Stack Developer** with a keen interest in **Blockchain**
 
 ## 🔗 Portfolio
 
-Visit my [Portfolio Website](https://portfolio-kappa-red-42.vercel.app/) to see more about me and my work!
+Visit my [Portfolio Website](https://simple-profile-soamns-projects.vercel.app/) to see more about me and my work!
 
 ---
 
