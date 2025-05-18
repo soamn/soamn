@@ -40,27 +40,6 @@ I'm a passionate **Full-Stack Developer** with a keen interest in **Blockchain**
 
 ---
 
-## 🛠️ Featured Projects
-
-### [Mailfu](https://github.com/soamn/mailfu)
-[mailfu](https://mailfu.in)
-- Get Ai generated emails directly sent .
-- Created grok based Ai generated email sender website that sends Generated emails directly in bulk to multiple users.
-
-  
-### [Apple-Detect 🍎](https://github.com/soamn/Apple-detect)
-- Developed a YOLO-based ML model to detect apple varieties, diseases, and disorders.
-- Integrated **OpenCV** for camera input and **Flask** backend for detection.
-- Built a **Next.js** frontend for live detection and image uploads.
-
-
----
-
-## ✨ Quote
-
-> "The best way to predict the future is to create it."
-
----
 
 ## 🔗 Portfolio
 
