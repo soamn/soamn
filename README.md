@@ -12,22 +12,6 @@ I'm a passionate **Full-Stack Developer** with a keen interest in **Blockchain**
 
 ---
 
-## 💻 Tech Expertise
-
-### **Core Skills**
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, Flask
-- **Languages**: TypeScript, Python, Solidity
-- **Databases**: MongoDB, PostgreSQL
-- **DevOps**: Docker, AWS
-- **AI/ML Tools**: OpenCV, YOLO, TensorFlow
-
-### **Current Interests**
-- **Blockchain Development**: Exploring smart contracts with Solidity and building decentralized applications.
-- **AI/ML**: Experimenting with custom object detection and data analysis models.
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
