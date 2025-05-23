@@ -40,16 +40,4 @@ I'm a passionate **Full-Stack Developer** with a keen interest in **Blockchain**
 ---
 
 
-## 🔗 Portfolio
 
-Visit my [Portfolio Website](https://simple-profile-soamns-projects.vercel.app/) to see more about me and my work!
-
----
-
-### License
-
-All content in this repository is open-source and free to use under the MIT License.
-
----
-
-Thanks for stopping by! 🚀 Let's connect and create something amazing together!
