@@ -9,7 +9,6 @@ I'm a passionate **Full-Stack Developer** with a keen interest in **Blockchain**
 [![X](https://img.shields.io/badge/-X-%23121011?style=flat&logo=X&logoColor=white)](https://x.com/soamn_) 
 [![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/DQVhSDhw) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soamn) 
-[![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/soamn)
 
 ---
 
