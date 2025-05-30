@@ -1,6 +1,5 @@
 # Hey there! 👋 I'm Aman Negi
 
-I'm a passionate **Full-Stack Developer** with a keen interest in **Blockchain** and **AI/ML** technologies. I love exploring cutting-edge tools and frameworks, building innovative projects, and sharing my learning journey.
 
 ---
 
