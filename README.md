@@ -3,7 +3,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Socials
 
 [![X](https://img.shields.io/badge/-X-%23121011?style=flat&logo=X&logoColor=white)](https://x.com/soamn_) 
 [![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/DQVhSDhw) 
