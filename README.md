@@ -1,26 +1,40 @@
-# Hey there! 👋 I'm Aman Negi
+# AMAN NEGI (soamn)
 
+A simple index of my public GitHub repositories.
 
----
-
-## 🌐 Socials
-
-[![X](https://img.shields.io/badge/-X-%23121011?style=flat&logo=X&logoColor=white)](https://x.com/soamn_) 
-[![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/DQVhSDhw) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soamn) 
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Aman's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=soamn&theme=gruvbox&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soamn&layout=compact&theme=gruvbox&hide_border=true)
-
-</div>
-
----
-
-
-
+- [psychology](https://github.com/soamn/psychology)
+- [Top-Stories](https://github.com/soamn/Top-Stories)
+- [poster](https://github.com/soamn/poster)
+- [readosphere](https://github.com/soamn/readosphere)
+- [project-aman](https://github.com/soamn/project-aman)
+- [exerai](https://github.com/soamn/exerai)
+- [aterna](https://github.com/soamn/aterna)
+- [gcp-example](https://github.com/soamn/gcp-example)
+- [placedin](https://github.com/soamn/placedin)
+- [soamn](https://github.com/soamn/soamn)
+- [simple-mcp-server](https://github.com/soamn/simple-mcp-server)
+- [odifarm](https://github.com/soamn/odifarm)
+- [maple.ui](https://github.com/soamn/maple.ui)
+- [maple](https://github.com/soamn/maple)
+- [Apple-detect](https://github.com/soamn/Apple-detect)
+- [ProjectA1](https://github.com/soamn/ProjectA1)
+- [simple-profile](https://github.com/soamn/simple-profile)
+- [PostProject](https://github.com/soamn/PostProject)
+- [BlogApp](https://github.com/soamn/BlogApp)
+- [rngchess](https://github.com/soamn/rngchess)
+- [mailfu](https://github.com/soamn/mailfu)
+- [unkey](https://github.com/soamn/unkey)
+- [OpenBB](https://github.com/soamn/OpenBB)
+- [oss-obb-dashboard](https://github.com/soamn/oss-obb-dashboard)
+- [papermark](https://github.com/soamn/papermark)
+- [formbricks](https://github.com/soamn/formbricks)
+- [howfast](https://github.com/soamn/howfast)
+- [supertokens-core](https://github.com/soamn/supertokens-core)
+- [windmill](https://github.com/soamn/windmill)
+- [portfolio](https://github.com/soamn/portfolio)
+- [soblogs](https://github.com/soamn/soblogs)
+- [auth-app](https://github.com/soamn/auth-app)
+- [gierlist](https://github.com/soamn/gierlist)
+- [Traderay](https://github.com/soamn/Traderay)
+- [Todo_app](https://github.com/soamn/Todo_app)
+- [Flow](https://github.com/soamn/Flow)
