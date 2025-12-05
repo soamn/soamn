@@ -1,7 +1,5 @@
-# AMAN NEGI (soamn)
-
-A simple index of my public GitHub repositories.
-
+# Quick Links
+-[Linkedin](https://www.linkedin.com/in/soamn/)
 - [readosphere](https://github.com/soamn/readosphere)
 - [exerai](https://github.com/soamn/exerai)
 - [aterna](https://github.com/soamn/aterna)
