@@ -1,8 +1,6 @@
 # Aman Negi
 
-Full-stack developer with a focus on systems programming, developer tooling, and AI-integrated applications. I work primarily in TypeScript, Rust, and Python — building things that are either infrastructure-adjacent or solving problems I ran into myself.
-
-Currently pursuing an MCA from IGNOU. Previously worked as a Web Development Intern at Netgen IT Solutions, where I built real-time communication systems and authentication flows.
+Full-stack developer with a focus on systems programming, developer tooling, and AI-integrated applications. I work primarily in TypeScript, Rust,c++ and Python building things that are either infrastructure-adjacent or solving problems I ran into myself.
 
 ---
 
@@ -10,11 +8,11 @@ Currently pursuing an MCA from IGNOU. Previously worked as a Web Development Int
 
 **WFAS — Workflow Automation System** `TypeScript · PostgreSQL · Docker`
 
-A node-based workflow execution engine with a visual builder interface. Users connect nodes to define multi-step automation flows, with support for external integrations including Slack, Telegram, Discord, and Gmail. The system handles persistence of workflow structures — nodes, edges, and trigger configurations — and executes them reliably end-to-end. Split across three repositories: the server, the UI, and the execution engine.
+A node-based workflow execution engine with a visual builder interface. Users connect nodes to define multi-step automation flows, with support for external integrations including Slack, Telegram, Discord, and Gmail. The system handles persistence of workflow structures nodes, edges, and trigger configurations — and executes them reliably end-to-end. Split across three repositories: the server, the UI, and the execution engine.
 
 **Aterna** `Rust`
 
-A terminal-native AI chat interface built with `ratatui`. No browser dependency — Aterna brings LLM interaction directly into the shell with a clean TUI, async message handling, and support for multiple model backends (Groq, OpenAI). Configurable via environment, with modal controls for switching models, clearing state, and navigating the interface without leaving the terminal.
+A terminal-native AI chat interface built with `ratatui`. No browser dependency Aterna brings LLM interaction directly into the shell with a clean TUI, async message handling, and support for multiple model backends (Groq, OpenAI). Configurable via environment, with modal controls for switching models, clearing state, and navigating the interface without leaving the terminal.
 
 **SlicePDF** `Rust · Tauri`
 
