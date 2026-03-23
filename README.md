@@ -6,13 +6,9 @@ Full-stack developer with a focus on systems programming, developer tooling, and
 
 ## What I'm Working On
 
-**WFAS — Workflow Automation System** `TypeScript · PostgreSQL · Docker`
+**WFAS : Workflow Automation System** `TypeScript · PostgreSQL · Docker`
 
-A node-based workflow execution engine with a visual builder interface. Users connect nodes to define multi-step automation flows, with support for external integrations including Slack, Telegram, Discord, and Gmail. The system handles persistence of workflow structures nodes, edges, and trigger configurations — and executes them reliably end-to-end. Split across three repositories: the server, the UI, and the execution engine.
-
-**Aterna** `Rust`
-
-A terminal-native AI chat interface built with `ratatui`. No browser dependency Aterna brings LLM interaction directly into the shell with a clean TUI, async message handling, and support for multiple model backends (Groq, OpenAI). Configurable via environment, with modal controls for switching models, clearing state, and navigating the interface without leaving the terminal.
+A node-based workflow execution engine with a visual builder interface. Users connect nodes to define multi-step automation flows, with support for external integrations including Slack, Telegram, Discord, and Gmail. The system handles persistence of workflow structures nodes, edges, and trigger configurations  and executes them reliably end-to-end. Split across three repositories: the server, the UI, and the execution engine.
 
 **SlicePDF** `Rust · Tauri`
 
